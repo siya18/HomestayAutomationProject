@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+<servlet-name>Login</servlet-name>
+<servlet-class>/HomeProject/src/Controller/Login.java</servlet-class>
+
+
+<servlet-name>Temp</servlet-name>
+<servlet-class>/HomeProject/src/Controller/Temp.java</servlet-class>
+
+<servlet-mapping>
+<servlet-name>Login</servlet-name>
+<url-mapping>/Login</url-mapping>
+
+<servlet-name>Temp</servlet-name>
+<url-mapping>/Temp</url-mapping>
+
+
+</servlet-mapping>
+
+</servlet>
