@@ -18,5 +18,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/Self-Study Materials/libraries/jstl.jar"/>
 	<classpathentry kind="lib" path="D:/Self-Study Materials/libraries/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Self-Study Materials/libraries/mysql-connector-java-5.0.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
